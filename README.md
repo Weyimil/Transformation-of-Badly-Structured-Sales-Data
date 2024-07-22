@@ -86,7 +86,7 @@ By following this structured process, the project ensures accurate and efficient
 
 The chart below displays the poorly structured and raw sales data.
 
-![]()
+![](Badly_Structured_Sales_Data.png)
 
 The chart below illustrates the results of the ETL process.
 
