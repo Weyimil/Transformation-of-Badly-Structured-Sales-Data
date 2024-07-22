@@ -88,9 +88,11 @@ The chart below displays the poorly structured and raw sales data.
 
 ![](Badly_Structured_Sales_Data.png)
 
+
 The chart below illustrates the results of the ETL process.
 
 ![](Cleaned_Properly_Structured_Sales_Data.png)
+
 
 The dashboard below presents the results of a thorough Analysis.
 
